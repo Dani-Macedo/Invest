@@ -1,0 +1,47 @@
+# 🚀 Guia de Uso – Invest  
+
+## 🛠️ **1. Configurações Iniciais**  
+
+Antes de começar a usar a ferramenta, insira as informações básicas para personalizar os cálculos conforme seu perfil de investidor:  
+- **Salário:** Defina o valor do seu rendimento mensal.  
+- **Rendimento da Carteira:** Taxa de retorno dos investimentos.  
+- **Sugestão de Investimento:** Percentual recomendado baseado no seu salário.  
+
+## 💰 **2. Definição do Investimento Mensal**  
+
+Aqui você configura o plano de investimento mensal:  
+1. **Quanto investir por mês:** Valor destinado aos aportes mensais.  
+2. **Por quantos anos:** Período planejado para os investimentos.  
+3. **Taxa de rendimento mensal:** Percentual médio de retorno dos ativos.  
+4. **Patrimônio acumulado:** Projeção do valor total após o período investido.  
+5. **Dividendos mensais:** Estimativa dos rendimentos gerados pelos FIIs.  
+
+## 📈 **3. Simulação de Cenários**  
+
+Com base nos dados inseridos, você pode visualizar projeções do crescimento do patrimônio e dos dividendos ao longo dos anos:  
+- **2 anos:** R$ 5.445,53 | Dividendos: R$ 32,67  
+- **5 anos:** R$ 16.755,38 | Dividendos: R$ 100,53  
+- **10 anos:** R$ 48.656,84 | Dividendos: R$ 291,94  
+- **20 anos:** R$ 225.039,68 | Dividendos: R$ 1.350,24  
+- **30 anos:** R$ 864.433,93 | Dividendos: R$ 5.186,60  
+
+## 🏗️ **4. Definição de Perfil e Alocação de FIIs**  
+
+A ferramenta sugere a alocação do investimento mensal conforme seu **perfil de investidor** (Moderado, Conservador ou Agressivo):  
+- **Valor investido por mês:** R$ 200,00  
+- **Distribuição sugerida por tipo de FII:**  
+  - **Papel:** 32% (R$ 64,00)  
+  - **Tijolo:** 35% (R$ 70,00)  
+  - **Híbridos:** 8% (R$ 16,00)  
+  - **FOFs:** 5% (R$ 10,00)  
+  - **Desenvolvimento:** 10% (R$ 20,00)  
+  - **Hotelarias:** 10% (R$ 20,00)  
+
+## 🎯 **5. Análise dos Resultados**  
+
+Após preencher as informações, a ferramenta gerará gráficos e relatórios com a evolução dos seus investimentos, permitindo acompanhar:  
+✅ **Projeção de patrimônio** ao longo dos anos.  
+✅ **Estimativa de dividendos** para cada período.  
+✅ **Distribuição da carteira** com alocação recomendada.  
+
+
